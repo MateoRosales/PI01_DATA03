@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from sqlalchemy import create_engine
-from queries import query1, query2, query3, query4
+from Queries import query1, query2, query3, query4
 
 engine = create_engine('mysql+pymysql://root:SQLmy.29luis@localhost:3306/proyectof1')
 
