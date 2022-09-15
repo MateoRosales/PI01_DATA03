@@ -98,7 +98,6 @@ python-dateutil==2.8.2
 python-dotenv==0.21.0
 python-multipart==0.0.5
 pytz==2022.1
-pywin32==304
 pywinpty==2.0.7
 PyYAML==6.0
 pyzmq==22.3.0
